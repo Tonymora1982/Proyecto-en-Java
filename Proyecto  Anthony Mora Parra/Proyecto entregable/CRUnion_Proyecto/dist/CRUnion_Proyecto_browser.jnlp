@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="CRUnion_Proyecto_browser.jnlp">
+  <information>
+    <title>CRUnion_Proyecto</title>
+    <vendor>Anthony</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="CRUnion_Proyecto.jar" size="21581" download="eager" />
+  </resources>
+  <applet-desc  width="800" height="600" main-class="CRUnion"  name="CRUnion_Proyecto" >
+  </applet-desc>
+  <update check="always"/>
+</jnlp>
